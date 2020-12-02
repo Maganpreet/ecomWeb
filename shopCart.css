@@ -1,0 +1,164 @@
+#shoppingHead{
+    background-color: #1F2833;
+    color: #66FCF1;
+    border-radius: 10px;
+    text-align: center;
+}
+#itemList{
+    background-color: #1F2833;
+    border-radius: 10px;    
+    width: 50%;
+    float:left;
+}
+#purchaseList{
+    background-color: #1F2833;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 48%;
+    float:right;
+    margin-left: 111px;
+    margin: auto;
+}
+#takeDetails{
+    margin-top: 20px;
+    float: right;
+    background-color: #1F2833;
+    border-style: solid;
+    border-color: #66FCF1;
+    display: none;
+    height: 220px;
+    width: 48%;
+    border-radius: 10px;
+}
+#placedOrder{
+    margin-top: 20px;
+    float: right;
+    background-color: #1F2833;
+    border-style: solid;
+    border-color: #66FCF1;
+    width: 48%;
+    border-radius: 10px;
+
+}
+#plistHead,#listHead{
+    background-color: #5B6073;
+    height: 50px;
+    color: #C5C6C7;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.headP{
+    float:left;
+    font-size: 20px;
+    font-family: serif;            
+    margin-left: 75px;
+}
+.pheadP{
+    float:left;
+    font-size: 20px;
+    font-family: serif;            
+    margin-left: 70px;
+}
+
+.listDivs{
+    background-color: #5B6073;
+    color: #C5C6C7;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex: 0 1 auto;
+
+}
+.ulists{
+    margin-top: 40px;
+    list-style-type: none;
+}
+
+.litem{
+    float: left;
+    width: 90px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.butts{
+    background-color: #263238;
+    color: #66FCF1;
+    border-radius: 15px;
+    margin-top: 40px;
+    height: 20px;
+    margin: auto;
+
+}
+
+.pdivs{
+    background-color: #5B6073;
+    height: 50px;
+    color: #C5C6C7;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    display: flex;
+    flex: 0 1 auto;
+}
+.pulists{
+    list-style-type: none;
+}
+
+.vals3{
+    width: 110px;
+    float: left;
+    font-size: 20px;
+    font-family: serif;            
+    margin-left: 10px;
+    justify-content: space-between;
+}
+.rembutt{
+ background-color: #263238;
+ color: #66FCF1;
+ border-radius: 10px;
+}
+
+
+#checkOut{
+    display: none;
+    margin-left: 45%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #5B6073;
+    color: #66FCF1;
+    border-color: #66FCF1;
+    border-radius: 10px; 
+}
+#purItemData{
+    margin: auto;
+    margin-top: 30px;
+    width: 500px;
+    background-color: #5B6073;
+    border-style: solid;
+    border-color: #66FCF1; 
+    border-radius: 10px;
+}
+
+.buyer{
+    margin-left: 35%;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    font-family: serif;
+    border-radius: 10px; 
+    display: none;
+}
+#buyerAdd{
+    height: 50px;
+    font-size: 30px;
+}
+#buyerSub{
+    background-color: #5B6073;
+    color: #66FCF1;
+    border-color: #66FCF1;
+}
+
